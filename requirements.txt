@@ -3,7 +3,9 @@ numpy
 seaborn
 matplotlib
 scikit-learn
--e .
+catboost
+xgboost
+#-e .
 
 #  python -m venv venv
 # source venv/bin/activate
