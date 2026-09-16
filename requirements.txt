@@ -5,6 +5,8 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+dill
+
 #-e .
 
 #  python -m venv venv
